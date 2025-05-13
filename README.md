@@ -1,9 +1,9 @@
 ## Hi, I'm Sangmin (or Sandy)! <br>
-I'm a data analyst passionate about uncovering insights and driving impact across product, strategy, and operations. I'm currently completing my <a href="https://macss.berkeley.edu/">Master's in Computational Social Science</a> at UC Berkeley, where I focus on applying data analytics, machine learning, and data storytelling to solve real-world problems.<br><br>
-Before grad school, I worked as a Business Analyst at the world's 3rd busiest international airport, where I used SQL, Tableau, and Advanced Excel to analyze large-scale aviation data, forecast demand, and build dashboards that supported new route development and real-time performance tracking.<br><br>
-At Berkeley, I was trained to own the full analytics lifecycle, from data engineering and modeling to deployment and insight delivery. I've led end-to-end analytics projects across private and public sectors. At FocusKPI, I built an AI-powered app review pipeline and dashboard that identified churn drivers from 10k+ reviews, helping product teams prioritize feature improvements and shape product roadmaps. For my capstone, I partnered with the Berkeley Police Department to build a GIS-based patrol zone optimization tool, now adopted for strategic planning. In both projects, I've built scalable pipelines, designed custom metrics, and delivered insights via self-serve dashboards for non-technical stakeholders.<br><br>
-At MaCSS, I've also contributed to research projects that advance data-driven policymaking in California, including topics on housing displacement, gender disparities in labor market, and misinformation on social media.<br><br>
-Ultimately, I'm drawn to roles where I can apply technical rigor to meaningful challenges — whether improving user experiences in tech or advancing social impact in public policy. With experience working across both domains, I bring a unique ability to translate complex data into real-world impact — across people, products, and policy.
+I'm a data analyst passionate about uncovering insights and driving impact across product, strategy, and operations. I'm currently completing my [Master's in Computational Social Science](https://macss.berkeley.edu/) at UC Berkeley, where I focus on applying data analytics, machine learning, and data storytelling to solve real-world problems.<br>
+Before grad school, I worked as a Business Analyst at the world's 3rd busiest international airport, where I used SQL, Tableau, and Advanced Excel to analyze large-scale aviation data, forecast demand, and build dashboards that supported new route development and real-time performance tracking.<br>
+At Berkeley, I was trained to own the full analytics lifecycle, from data engineering and modeling to deployment and insight delivery. I've led end-to-end analytics projects across private and public sectors. At [FocusKPI](https://www.focuskpi.com/), I built an [AI-powered app review pipeline and dashboard](https://www.youtube.com/watch?v=NK6nVT0ubZw) that identified churn drivers from 10k+ reviews, helping product teams prioritize feature improvements and shape product roadmaps. For my capstone, I partnered with the [Berkeley Police Department](https://bpd-transparency-initiative-berkeleypd.hub.arcgis.com/) to build a [GIS-based patrol zone optimization tool](https://drive.google.com/file/d/1GJc5lvHSB6qTAfGMJtgMgJdN7yne0bsp/view), now adopted for strategic planning. In both projects, I've built scalable pipelines, designed custom metrics, and delivered insights via self-serve dashboards for non-technical stakeholders.<br>
+At MaCSS, I've also contributed to research projects that advance data-driven policymaking in California, including topics on housing displacement, gender disparities in labor market, and misinformation on social media.<br>
+Ultimately, I'm drawn to roles where I can apply technical rigor to meaningful challenges, whether improving user experiences in tech or advancing social impact in public policy. With experience working across both domains, I bring a unique ability to translate complex data into real-world impact across people, products, and policy.
 
 
 ## Work
@@ -13,7 +13,7 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 <table>
 <tr>
 <td width="90" align="center" valign="top">
-  <img src="/image/focuskpi.jpg" alt="FocusKPI Logo" width="70"/>
+  <img src="./image/focuskpi.jpg" alt="FocusKPI Logo" width="100"/>
 </td>
 <td valign="top">
   <b>FocusKPI, Inc</b><br>
@@ -27,7 +27,7 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 <table>
 <tr>
 <td width="90" align="center" valign="top">
-  <img src="/image/bpd.jpg" alt="Berkeley PD Logo" width="70"/>
+  <img src="./image/bpd.jpg" alt="Berkeley PD Logo" width="100"/>
 </td>
 <td valign="top">
   <b>Berkeley Police Department, Office of Strategic Planning & Accountability</b><br>
@@ -41,7 +41,7 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 <table>
 <tr>
 <td width="90" align="center" valign="top">
-  <img src="./image/iiac.jpg" alt="Incheon Airport Logo" width="70"/>
+  <img src="./image/iiac.jpg" alt="Incheon Airport Logo" width="100"/>
 </td>
 <td valign="top">
   <b>Incheon International Airport Corporation</b><br>
@@ -51,6 +51,20 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 </td>
 </tr>
 </table>
+
+
+## Projects
+
+Through rigorous coursework and applied research at MaCSS, I've contributed to projects that advance data-driven policymaking in California, including:
+- **Displacement Risk Index:** Developed a displacement risk index for Bay Area census tracts by integrating ACS and eviction data to identify high-risk communities and inform housing policy.
+- **Gender Disparities in the Workforce:** Measured gender disparities by analyzing national education and earnings data to uncover structural inequities and support equity-driven interventions.
+- **Misinformation & Social Media:** Evaluated the impact of Twitter's deplatforming on misinformation diffusion using causal inference methods to inform content moderation and policy design.
+
+Through rigorous coursework and applied research, I've also developed strong technical capabilities at the intersection of data science and social impact. At MaCSS, I've contributed to research projects that advance data-driven policymaking in California, including: 
+
+  - Developing a displacement risk index for Bay Area census tracts by integrating ACS and eviction data to identify high-risk communities and inform housing policy.
+  - Measuring gender disparities in the workforce by analyzing national education and earnings data to uncover structural inequities and support equity-driven interventions.
+  - Evaluating the impact of Twitter's deplatforming on misinformation diffusion using causal inference methods to inform content moderation and policy design.
 
 
 ## Analytical Skills
@@ -77,18 +91,3 @@ Developed modular ETL pipelines, merged multi-format datasets (CSV, JSON, GeoJSO
 
 **Cloud & Warehousing**  
 Queried large datasets from BigQuery, PostgreSQL, and Snowflake to support data-driven strategy and reporting.
-
---
-
-## Projects
-
-Through rigorous coursework and applied research at MaCSS, I've contributed to projects that advance data-driven policymaking in California, including:
-- **Displacement Risk Index:** Developed a displacement risk index for Bay Area census tracts by integrating ACS and eviction data to identify high-risk communities and inform housing policy.
-- **Gender Disparities in the Workforce:** Measured gender disparities by analyzing national education and earnings data to uncover structural inequities and support equity-driven interventions.
-- **Misinformation & Social Media:** Evaluated the impact of Twitter's deplatforming on misinformation diffusion using causal inference methods to inform content moderation and policy design.
-
-Through rigorous coursework and applied research, I've also developed strong technical capabilities at the intersection of data science and social impact. At MaCSS, I've contributed to research projects that advance data-driven policymaking in California, including: 
-
-  - Developing a displacement risk index for Bay Area census tracts by integrating ACS and eviction data to identify high-risk communities and inform housing policy.
-  - Measuring gender disparities in the workforce by analyzing national education and earnings data to uncover structural inequities and support equity-driven interventions.
-  - Evaluating the impact of Twitter's deplatforming on misinformation diffusion using causal inference methods to inform content moderation and policy design.
