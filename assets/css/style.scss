@@ -4,15 +4,14 @@
 @import "{{ site.theme }}";
 
 .wrapper {
-  width:1200px;
-  // left side is 270
-  // 1200-270 = 930
-  // 30px free room
-  margin:0 auto;
+  max-width: 960px;
+  width: 100%;
+  margin: 0 auto;
 }
 
 section {
-  width:900px;
-  float:right;
-  padding-bottom:50px;
+  max-width: 700px;
+  width: 100%;
+  float: right;
+  padding-bottom: 50px;
 }
