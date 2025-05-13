@@ -1,9 +1,10 @@
-## Hi, I'm Sangmin (or Sandy)! <br><br>
+## Hi, I'm Sangmin (or Sandy)! <br>
 I'm a data analyst passionate about uncovering insights and driving impact across product, strategy, and operations. I'm currently completing my <a href="https://macss.berkeley.edu/">Master's in Computational Social Science</a> at UC Berkeley, where I focus on applying data analytics, machine learning, and data storytelling to solve real-world problems.<br><br>
 Before grad school, I worked as a Business Analyst at the world's 3rd busiest international airport, where I used SQL, Tableau, and Advanced Excel to analyze large-scale aviation data, forecast demand, and build dashboards that supported new route development and real-time performance tracking.<br><br>
 At Berkeley, I was trained to own the full analytics lifecycle, from data engineering and modeling to deployment and insight delivery. I've led end-to-end analytics projects across private and public sectors. At FocusKPI, I built an AI-powered app review pipeline and dashboard that identified churn drivers from 10k+ reviews, helping product teams prioritize feature improvements and shape product roadmaps. For my capstone, I partnered with the Berkeley Police Department to build a GIS-based patrol zone optimization tool, now adopted for strategic planning. In both projects, I've built scalable pipelines, designed custom metrics, and delivered insights via self-serve dashboards for non-technical stakeholders.<br><br>
 At MaCSS, I've also contributed to research projects that advance data-driven policymaking in California, including topics on housing displacement, gender disparities in labor market, and misinformation on social media.<br><br>
 Ultimately, I'm drawn to roles where I can apply technical rigor to meaningful challenges — whether improving user experiences in tech or advancing social impact in public policy. With experience working across both domains, I bring a unique ability to translate complex data into real-world impact — across people, products, and policy.
+
 
 ## Work
 
@@ -23,12 +24,10 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 </tr>
 </table>
 
----
-
 <table>
 <tr>
 <td width="90" align="center" valign="top">
-  <img src="/image/bpd.png" alt="Berkeley PD Logo" width="70"/>
+  <img src="/image/bpd.jpg" alt="Berkeley PD Logo" width="70"/>
 </td>
 <td valign="top">
   <b>Berkeley Police Department, Office of Strategic Planning & Accountability</b><br>
@@ -39,8 +38,6 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 </tr>
 </table>
 
----
-
 <table>
 <tr>
 <td width="90" align="center" valign="top">
@@ -49,13 +46,12 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 <td valign="top">
   <b>Incheon International Airport Corporation</b><br>
   <i>Business Analyst, Oct 2018 – Jul 2024</i><br>
-  <a href="https://www.airport.kr/co_en/index.do">Company Website</a> | <a href="https://www.airport.kr/co_en/4284/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY29fZW4lMkY0NjclMkYxMzY1MjYlMkZhcnRjbFZpZXcuZG8lM0Y%3D">New Routes Incubating Program Overview</a><br>
+  <a href="https://www.airport.kr/co_en/index.do">Company Website</a> | <a href="https://www.airport.kr/co_en/4284/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY29fZW4lMkY0NjclMkYxMzY1MjYlMkZhcnRjbFZpZXcuZG8lM0Y%3D">New Routes Incubating Program</a><br>
   At Incheon International Airport Corporation, I worked as a Business Analyst supporting airline marketing and international route development strategy for the world's 3rd busiest airport. I used SQL to pull and analyze large traffic datasets and delivered KPI reports to senior leadership, enabling data-informed decisions across aviation marketing, airline partnerships, and new route planning. I also designed and maintained 50+ Tableau and Excel dashboards to monitor performance metrics, market trends, and campaign effectiveness in real time. My analysis informed strategic decisions for Incheon's New Routes Incubating Program, which provided targeted marketing incentives to transition irregular flights into regular routes. By analyzing airline traffic patterns, competitor capacity, and market segmentation, I identified new revenue opportunities and supported strategic outreach, contributing to a 7% increase in APAC market share.
 </td>
 </tr>
 </table>
 
----
 
 ## Analytical Skills
 Through real-world projects and graduate coursework, I've developed hands-on technical and analytical skills across the full data lifecycle—from engineering scalable pipelines to modeling and visualizing outcomes.
