@@ -65,7 +65,7 @@ projects that advance data-driven policymaking in California, including:
 </td>
 <td valign="top">
   <b>Deplatforming and the Decline of Misinformation: A Twitter Case Study</b><br>
-  <b>사용된 툴:</b> Python, Statsmodels, Difference-in-Differences<br>
+  <b>Tools Used:</b> Python (pandas, statsmodels), Difference-in-Differences<br>
   <a href="https://medium.com/@sangmin.lee.ir/evaluating-the-effectiveness-of-twitters-deplatforming-as-a-content-moderation-strategy-1066dea05a46">Medium Post</a> | <a href="https://github.com/sandy-lee29/Twitter-DiD-Analysis-Project">Github Repo</a><br>
   In this project, I explored whether deplatforming after January 6th effectively reduced misinformation on Twitter. Using a Difference-in-Differences (DiD) approach, I analyzed a comprehensive dataset tracking fake and non-fake posts over time, focusing on user groups such as "QAnon" affiliates and suspended accounts. The analysis revealed a significant decline in misinformation sharing post-deplatforming, especially among the targeted user groups, with notable drops in retweets and post initiations. The study underscored the potential of deplatforming as a tool to curb misinformation while raising important questions about broader implications of content moderation.
 </td>
@@ -79,7 +79,7 @@ projects that advance data-driven policymaking in California, including:
 </td>
 <td valign="top">
   <b>Mapping Displacement Risk in the Bay Area: A Spatial Data Approach</b><br>
-  <b>사용된 툴:</b> R (tidycensus, sf, ggplot2), Spatial Analysis<br>
+  <b>Tools Used:</b> R (tidycensus, sf, ggplot2), Spatial Analysis<br>
   <a href="https://github.com/sandy-lee29/housing-displacement-risk-analysis/blob/main/Measuring%20Displacement%20Risk%20using%20U.S.%20Census%20and%20Eviction%20Lab%20Data.pdf">Project Report</a> | <a href="https://github.com/sandy-lee29/housing-displacement-risk-analysis">Github Repo</a><br>
   In this project, I developed a Displacement Risk Index to assess housing vulnerability across Bay Area census tracts. By spatially linking ACS 5-Year Census data with Eviction Lab records, I quantified the risk of displacement and visualized high-risk zones through choropleth maps. The analysis placed particular focus on the New Mexico tract, a neighborhood in the Bay Area with pronounced displacement signals. Communities with high renter concentration, Hispanic populations, and senior residents were identified as especially vulnerable. This project provided a data-driven lens to understand housing precarity and aimed to support equitable urban planning and policy targeting.
 </td>
@@ -93,7 +93,7 @@ projects that advance data-driven policymaking in California, including:
 </td>
 <td valign="top">
   <b>Quantifying Gender Disparities in the U.S. Workforce: Insights from the NSCG Survey Data</b><br>
-  <b>사용된 툴:</b> SQL, Python (pandas, statsmodels), Multiple Regression Modeling<br>
+  <b>Tools Used:</b> SQL, Python (pandas, statsmodels), Multiple Regression Modeling<br>
   <a href="https://app.hex.tech/beresford-berkeley/app/315e596f-34be-45ff-8e87-88718e92ae70/latest">Project Report</a><br>
   In this project, I analyzed wage disparities by gender and family structure using the 2021 National Survey of College Graduates (NSCG). Leveraging multiple regression with interaction terms, I quantified the motherhood penalty and examined how family structure amplifies wage gaps. The results revealed persistent structural inequities, particularly affecting mothers and unmarried women with children. The findings provide actionable insights to support equity-focused workforce policies and guide interventions for vulnerable subgroups.
 </td>
