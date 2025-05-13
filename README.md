@@ -1,18 +1,18 @@
 <table>
 <tr>
-<td width="200" align="center">
-  <img src="/image/profile2.jpg" alt="profile" width="180"/>
-</td>
-<td>
+<td valign="top" width="60%">
   <h1>Sangmin (Sandy) Lee</h1>
   <b>Data Analyst | Computational Social Science | UC Berkeley</b><br><br>
-  I'm a data analyst passionate about uncovering insights and driving impact across product, strategy, and operations. I'm currently completing my [Master's in Computational Social Science] at UC Berkeley("https://macss.berkeley.edu/"), where I focus on applying data analytics, machine learning, and data storytelling to solve real-world problems.<br><br>
-  Before grad school, I worked as a Business Analyst at the world's 3rd busiest international airport, where I used SQL, Tableau, and Advanced Excel to analyze large-scale aviation data, forecast demand, and build dashboards that supported new route development and real-time performance tracking. <br><br>
-  At Berkeley, I was trained to own the full analytics lifecycle, from data engineering and modeling to deployment and insight delivery. I've led end-to-end analytics projects across private and public sectors. At FocusKPI, I built an AI-powered app review pipeline and dashboard that identified churn drivers from 10k+ reviews, helping product teams prioritize feature improvements and shape product roadmaps. For my capstone, I partnered with the Berkeley Police Department to build a GIS-based patrol zone optimization tool, now adopted for strategic planning. 
-  In both projects, I've built scalable pipelines, designed custom metrics, and delivered insights via self-serve dashboards for non-technical stakeholders. 
-  <br><br>
-  At MaCSS, I've also contributed to research projects that advance data-driven policymaking in California, including topics on housing displacement, gender disparities in labor market, and misinformation on social media. 
-  Ultimately, I'm drawn to roles where I can apply technical rigor to meaningfull challenges — whether improving user experiences in tech or advancing social impact in public policy. With experience working across both domains, I bring a unique ability to translate complex data into real-world impact — across people, products, and policy. 
+  I'm a data analyst passionate about uncovering insights and driving impact across product, strategy, and operations. I'm currently completing my <a href="https://macss.berkeley.edu/">Master's in Computational Social Science</a> at UC Berkeley, where I focus on applying data analytics, machine learning, and data storytelling to solve real-world problems.<br><br>
+  Before grad school, I worked as a Business Analyst at the world's 3rd busiest international airport, where I used SQL, Tableau, and Advanced Excel to analyze large-scale aviation data, forecast demand, and build dashboards that supported new route development and real-time performance tracking.<br><br>
+  At Berkeley, I was trained to own the full analytics lifecycle, from data engineering and modeling to deployment and insight delivery. I've led end-to-end analytics projects across private and public sectors. At FocusKPI, I built an AI-powered app review pipeline and dashboard that identified churn drivers from 10k+ reviews, helping product teams prioritize feature improvements and shape product roadmaps. For my capstone, I partnered with the Berkeley Police Department to build a GIS-based patrol zone optimization tool, now adopted for strategic planning. In both projects, I've built scalable pipelines, designed custom metrics, and delivered insights via self-serve dashboards for non-technical stakeholders.<br><br>
+  At MaCSS, I've also contributed to research projects that advance data-driven policymaking in California, including topics on housing displacement, gender disparities in labor market, and misinformation on social media.<br><br>
+  Ultimately, I'm drawn to roles where I can apply technical rigor to meaningful challenges — whether improving user experiences in tech or advancing social impact in public policy. With experience working across both domains, I bring a unique ability to translate complex data into real-world impact — across people, products, and policy.
+</td>
+<td valign="top" align="center" width="40%">
+  <img src="/image/profile2.jpg" alt="profile" width="250"/><br>
+  <br>
+  <img src="/image/berkeley_logo.png" alt="Berkeley Logo" width="120"/>
 </td>
 </tr>
 </table>
