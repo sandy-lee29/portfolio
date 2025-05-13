@@ -27,7 +27,7 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 <table>
 <tr>
 <td width="90" align="center" valign="top">
-  <img src="./image/bpd.jpg" alt="Berkeley PD Logo" width="100"/>
+  <img src="./image/bpd.png" alt="Berkeley PD Logo" width="100"/>
 </td>
 <td valign="top">
   <b>Berkeley Police Department, Office of Strategic Planning & Accountability</b><br>
