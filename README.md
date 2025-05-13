@@ -1,55 +1,59 @@
+## Hi, I'm Sangmin (or Sandy)! <br><br>
+I'm a data analyst passionate about uncovering insights and driving impact across product, strategy, and operations. I'm currently completing my <a href="https://macss.berkeley.edu/">Master's in Computational Social Science</a> at UC Berkeley, where I focus on applying data analytics, machine learning, and data storytelling to solve real-world problems.<br><br>
+Before grad school, I worked as a Business Analyst at the world's 3rd busiest international airport, where I used SQL, Tableau, and Advanced Excel to analyze large-scale aviation data, forecast demand, and build dashboards that supported new route development and real-time performance tracking.<br><br>
+At Berkeley, I was trained to own the full analytics lifecycle, from data engineering and modeling to deployment and insight delivery. I've led end-to-end analytics projects across private and public sectors. At FocusKPI, I built an AI-powered app review pipeline and dashboard that identified churn drivers from 10k+ reviews, helping product teams prioritize feature improvements and shape product roadmaps. For my capstone, I partnered with the Berkeley Police Department to build a GIS-based patrol zone optimization tool, now adopted for strategic planning. In both projects, I've built scalable pipelines, designed custom metrics, and delivered insights via self-serve dashboards for non-technical stakeholders.<br><br>
+At MaCSS, I've also contributed to research projects that advance data-driven policymaking in California, including topics on housing displacement, gender disparities in labor market, and misinformation on social media.<br><br>
+Ultimately, I'm drawn to roles where I can apply technical rigor to meaningful challenges — whether improving user experiences in tech or advancing social impact in public policy. With experience working across both domains, I bring a unique ability to translate complex data into real-world impact — across people, products, and policy.
+
+## Work
+
+I feel most fulfilled when developing impactful solutions to real-world problems or exploring innovative technologies.
+
 <table>
 <tr>
-<td valign="top" width="60%">
-  <h1>Sangmin (Sandy) Lee</h1>
-  <b>Data Analyst | Computational Social Science | UC Berkeley</b><br><br>
-  I'm a data analyst passionate about uncovering insights and driving impact across product, strategy, and operations. I'm currently completing my <a href="https://macss.berkeley.edu/">Master's in Computational Social Science</a> at UC Berkeley, where I focus on applying data analytics, machine learning, and data storytelling to solve real-world problems.<br><br>
-  Before grad school, I worked as a Business Analyst at the world's 3rd busiest international airport, where I used SQL, Tableau, and Advanced Excel to analyze large-scale aviation data, forecast demand, and build dashboards that supported new route development and real-time performance tracking.<br><br>
-  At Berkeley, I was trained to own the full analytics lifecycle, from data engineering and modeling to deployment and insight delivery. I've led end-to-end analytics projects across private and public sectors. At FocusKPI, I built an AI-powered app review pipeline and dashboard that identified churn drivers from 10k+ reviews, helping product teams prioritize feature improvements and shape product roadmaps. For my capstone, I partnered with the Berkeley Police Department to build a GIS-based patrol zone optimization tool, now adopted for strategic planning. In both projects, I've built scalable pipelines, designed custom metrics, and delivered insights via self-serve dashboards for non-technical stakeholders.<br><br>
-  At MaCSS, I've also contributed to research projects that advance data-driven policymaking in California, including topics on housing displacement, gender disparities in labor market, and misinformation on social media.<br><br>
-  Ultimately, I'm drawn to roles where I can apply technical rigor to meaningful challenges — whether improving user experiences in tech or advancing social impact in public policy. With experience working across both domains, I bring a unique ability to translate complex data into real-world impact — across people, products, and policy.
+<td width="90" align="center" valign="top">
+  <img src="/image/focuskpi.jpg" alt="FocusKPI Logo" width="70"/>
 </td>
-<td valign="top" align="center" width="40%">
-  <img src="/image/profile2.jpg" alt="profile" width="250"/><br>
-  <br>
-  <img src="/image/berkeley_logo.png" alt="Berkeley Logo" width="120"/>
+<td valign="top">
+  <b>FocusKPI, Inc</b><br>
+  <i>Data Science Intern, Jan 2025 - Present</i><br>
+  <a href="https://www.focuskpi.com/">Company Website</a> | <a href="https://www.youtube.com/watch?v=NK6nVT0ubZw">Watch Demo Video</a> | <a href="https://github.com/sandy-lee29/musicapp-review-analysis">Github Repo</a><br>
+  At FocusKPI, I partnered with a leading analytics consultancy to build an AI-powered app review analysis pipeline that processed and tagged over 10,000 reviews by sentiment, topic, and product issue. Leveraging techniques such as prompt engineering with GPT-4o and short-text semantic grouping, I engineered an end-to-end system that surfaced key churn drivers and powered an interactive Streamlit dashboard for product teams. I also developed automated reporting logic to rank user issues by estimated revenue risk, enabling product teams to prioritize features and shape data-driven roadmap decisions. The project was showcased at a final Demo Day, highlighting its value to stakeholders and demonstrating its potential for real-world impact.
 </td>
 </tr>
 </table>
 
 ---
 
-## Work
-
-I feel most fulfilled when developing impactful solutions to real-world problems or exploring innovative technologies.
-
-### ![FocusKPI Logo](/image/focuskpi.jpg)
-**FocusKPI, Inc**  
-*Data Science Intern, Jan 2025 - Present*  
-[Company Website](https://www.focuskpi.com/)
-
-At FocusKPI, I partnered with a leading analytics consultancy to build an AI-powered app review analysis pipeline that processed and tagged over 10,000 reviews by sentiment, topic, and product issue. Leveraging techniques such as prompt engineering with GPT-4o and short-text semantic grouping, I engineered an end-to-end system that surfaced key churn drivers and powered an interactive Streamlit dashboard for product teams. I also developed automated reporting logic to rank user issues by estimated revenue risk, enabling product teams to prioritize features and shape data-driven roadmap decisions. The project was showcased at a final Demo Day, highlighting its value to stakeholders and demonstrating its potential for real-world impact.  
-[Watch Demo Video](https://www.youtube.com/watch?v=NK6nVT0ubZw) | [Github Repo](https://github.com/sandy-lee29/musicapp-review-analysis)
-
----
-
-### ![Berkeley PD Logo](/image/bpd.png)
-**Berkeley Police Department, Office of Strategic Planning & Accountability**  
-*Data Analyst, Jan 2025 - April 2025*  
-[Company Website](https://bpd-transparency-initiative-berkeleypd.hub.arcgis.com/)
-
-At the Berkeley Police Department, I led the development of a GIS-based patrol zone optimization tool that analyzed 60,000+ service calls to uncover workload imbalances and recommend data-driven boundary redesigns. Using Python, GeoPandas, and Shapely, I engineered geospatial algorithms that integrated response time, call priority, and disposition data into a normalized Police Patrol Workload Score (PPWS), enabling more equitable resource allocation across patrol sectors. I built interactive heatmaps and sector-level dashboards with custom KPIs to visualize workload distribution and highlight high-priority hotspots. The tool produced year-over-year comparison maps and scenario testing outputs, which were adopted by the Office of Strategic Planning to guide annual patrol updates. This project not only improved workload equity by 15% but also established a replicable framework for operational decision-making through geospatial analytics.  
-[Full Project Report](https://drive.google.com/file/d/1GJc5lvHSB6qTAfGMJtgMgJdN7yne0bsp/view) | [Github Repo](https://github.com/sandy-lee29/patrol-optimization)
+<table>
+<tr>
+<td width="90" align="center" valign="top">
+  <img src="/image/bpd.png" alt="Berkeley PD Logo" width="70"/>
+</td>
+<td valign="top">
+  <b>Berkeley Police Department, Office of Strategic Planning & Accountability</b><br>
+  <i>Data Analyst, Jan 2025 - April 2025</i><br>
+  <a href="https://bpd-transparency-initiative-berkeleypd.hub.arcgis.com/">Company Website</a> | <a href="https://drive.google.com/file/d/1GJc5lvHSB6qTAfGMJtgMgJdN7yne0bsp/view">Full Project Report</a> | <a href="https://github.com/sandy-lee29/patrol-optimization">Github Repo</a><br>
+  At the Berkeley Police Department, I led the development of a GIS-based patrol zone optimization tool that analyzed 60,000+ service calls to uncover workload imbalances and recommend data-driven boundary redesigns. Using Python, GeoPandas, and Shapely, I engineered geospatial algorithms that integrated response time, call priority, and disposition data into a normalized Police Patrol Workload Score (PPWS), enabling more equitable resource allocation across patrol sectors. I built interactive heatmaps and sector-level dashboards with custom KPIs to visualize workload distribution and highlight high-priority hotspots. The tool produced year-over-year comparison maps and scenario testing outputs, which were adopted by the Office of Strategic Planning to guide annual patrol updates. This project not only improved workload equity by 15% but also established a replicable framework for operational decision-making through geospatial analytics.
+</td>
+</tr>
+</table>
 
 ---
 
-### ![Incheon Airport Logo](/image/iiac.jpg)
-**Incheon International Airport Corporation**  
-*Business Analyst, Oct 2018 – Jul 2024*  
-[Company Website](https://www.airport.kr/co_en/index.do)
-
-At Incheon International Airport Corporation, I worked as a Business Analyst supporting airline marketing and international route development strategy for the world's 3rd busiest airport. I used SQL to pull and analyze large traffic datasets and delivered KPI reports to senior leadership, enabling data-informed decisions across aviation marketing, airline partnerships, and new route planning. I also designed and maintained 50+ Tableau and Excel dashboards to monitor performance metrics, market trends, and campaign effectiveness in real time. My analysis informed strategic decisions for Incheon's New Routes Incubating Program, which provided targeted marketing incentives to transition irregular flights into regular routes. By analyzing airline traffic patterns, competitor capacity, and market segmentation, I identified new revenue opportunities and supported strategic outreach, contributing to a 7% increase in APAC market share.  
-[New Routes Incubating Program Overview](https://www.airport.kr/co_en/4284/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY29fZW4lMkY0NjclMkYxMzY1MjYlMkZhcnRjbFZpZXcuZG8lM0Y%3D)
+<table>
+<tr>
+<td width="90" align="center" valign="top">
+  <img src="/image/iiac.jpg" alt="Incheon Airport Logo" width="70"/>
+</td>
+<td valign="top">
+  <b>Incheon International Airport Corporation</b><br>
+  <i>Business Analyst, Oct 2018 – Jul 2024</i><br>
+  <a href="https://www.airport.kr/co_en/index.do">Company Website</a> | <a href="https://www.airport.kr/co_en/4284/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY29fZW4lMkY0NjclMkYxMzY1MjYlMkZhcnRjbFZpZXcuZG8lM0Y%3D">New Routes Incubating Program Overview</a><br>
+  At Incheon International Airport Corporation, I worked as a Business Analyst supporting airline marketing and international route development strategy for the world's 3rd busiest airport. I used SQL to pull and analyze large traffic datasets and delivered KPI reports to senior leadership, enabling data-informed decisions across aviation marketing, airline partnerships, and new route planning. I also designed and maintained 50+ Tableau and Excel dashboards to monitor performance metrics, market trends, and campaign effectiveness in real time. My analysis informed strategic decisions for Incheon's New Routes Incubating Program, which provided targeted marketing incentives to transition irregular flights into regular routes. By analyzing airline traffic patterns, competitor capacity, and market segmentation, I identified new revenue opportunities and supported strategic outreach, contributing to a 7% increase in APAC market share.
+</td>
+</tr>
+</table>
 
 ---
 

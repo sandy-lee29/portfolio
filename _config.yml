@@ -1,6 +1,9 @@
 title: Sangmin Sandy Lee 
+logo: /image/profile2.jpg
 description: Data Analyst | Computational Social Science | UC Berkeley
 theme: jekyll-theme-minimal
+repository: sandy-lee29/portfolio
 github:
   is_project_page: false
   repository_url: https://github.com/sandy-lee29
+berkeley_logo: /image/berkeley_logo.png
