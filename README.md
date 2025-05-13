@@ -27,13 +27,13 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 <table>
 <tr>
 <td width="90" align="center" valign="top">
-  <img src="./image/iiac.jpg" alt="Berkeley PD Logo" width="100"/>
+  <img src="./image/bpd.jpg" alt="BPD Logo" width="100"/>
 </td>
 <td valign="top">
   <b>Berkeley Police Department, Office of Strategic Planning & Accountability</b><br>
   <i>Data Analyst, Jan 2025 - April 2025</i><br>
   <a href="https://drive.google.com/file/d/1GJc5lvHSB6qTAfGMJtgMgJdN7yne0bsp/view">Full Project Report</a> | <a href="https://github.com/sandy-lee29/patrol-optimization">Github Repo</a><br>
-  At BPD, I built an innovative GIS-based patrol zone optimization tool that analyzed 60,000+ service calls to uncover workload imbalances and recommend data-driven boundary redesigns. Using Python, GeoPandas, and Shapely, I engineered geospatial algorithms that integrated response time, call priority, and disposition data into a normalized Police Patrol Workload Score, enabling more equitable resource allocation across patrol sectors. I built [interactive maps in Tableau](https://public.tableau.com/app/profile/sangmin.sandy.lee/viz/BerkeleyPoliceCallsDashboard/BerkeleyPolice) to visualize service call distribution and developed sector-level dashboards in Streamlit with custom KPIs to analyze workload and visualize high-priority hotspots. The tool produced year-over-year comparison maps and scenario testing outputs, which were adopted by the Office of Strategic Planning to guide annual patrol updates. This project not only improved workload equity by 15% but also established a replicable framework for operational decision-making through geospatial analytics.
+  At BPD, I built an innovative GIS-based patrol zone optimization tool that analyzed 60,000+ service calls to uncover workload imbalances and recommend data-driven boundary redesigns. Using Python, GeoPandas, and Shapely, I engineered geospatial algorithms that integrated response time, call priority, and disposition data into a normalized Police Patrol Workload Score, enabling more equitable resource allocation across patrol sectors. I built [interactive maps in Tableau](https://public.tableau.com/app/profile/sangmin.sandy.lee/viz/BerkeleyPoliceCallsDashboard/BerkeleyPolice) to visualize service call distribution and developed sector-level dashboards in Streamlit with custom KPIs to analyze workload and visualize high-priority hotspots. The tool produced year-over-year comparison maps and scenario testing outputs, which were adopted by the Office of Strategic Planning to guide annual patrol updates. This project not only improved workload equity by 15% but also established a replicable framework for operational decision-making through geospatial analytics.    
 </td>
 </tr>
 </table>
