@@ -41,7 +41,7 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 <table>
 <tr>
 <td width="90" align="center" valign="top">
-  <img src="/image/iiac.jpg" alt="Incheon Airport Logo" width="70"/>
+  <img src="./image/iiac.jpg" alt="Incheon Airport Logo" width="70"/>
 </td>
 <td valign="top">
   <b>Incheon International Airport Corporation</b><br>
