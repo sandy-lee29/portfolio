@@ -27,7 +27,7 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 <table>
 <tr>
 <td width="90" align="center" valign="top">
-  <img src="./image/bpd.png" alt="Berkeley PD Logo" width="100"/>
+  <img src="./image/bpd.jpg" alt="Berkeley PD Logo" width="100"/>
 </td>
 <td valign="top">
   <b>Berkeley Police Department, Office of Strategic Planning & Accountability</b><br>
@@ -124,4 +124,4 @@ Experienced in EDA, A/B testing, and quasi-experimental methods such as  Differe
 Developed ETL pipelines to integrate multi-source datasets, such as transportation and geospatial data in CSV, JSON, and Shapefile formats, and automated external data collection using APIs and scraping tools (Requests, BeautifulSoup, Selenium).
 
 **Cloud & Warehousing**  
-Queried large datasets from BigQuery and Snowflake to support data-driven strategy and reporting.
+Queried large datasets from BigQuery, MS SQL Server, and Snowflake to support data-driven strategy and reporting.
