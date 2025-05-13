@@ -18,7 +18,7 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 <td valign="top">
   <b>FocusKPI, Inc</b><br>
   <i>Data Science Intern, Jan 2025 - Present</i><br>
-  <a href="https://www.focuskpi.com/">Company Website</a> | <a href="https://www.youtube.com/watch?v=NK6nVT0ubZw">Watch Demo Video</a> | <a href="https://github.com/sandy-lee29/musicapp-review-analysis">Github Repo</a><br>
+  <a href="https://www.youtube.com/watch?v=NK6nVT0ubZw">Watch Demo Video</a> | <a href="https://github.com/sandy-lee29/musicapp-review-analysis">Github Repo</a><br>
   At FocusKPI, I partnered with a leading analytics consultancy to build an AI-powered app review analysis pipeline that processed and tagged over 10,000 reviews by sentiment, topic, and product issue. Leveraging techniques such as prompt engineering with GPT-4o and short-text semantic grouping, I engineered an end-to-end system that surfaced key churn drivers and powered an interactive Streamlit dashboard for product teams. I also developed automated reporting logic to rank user issues by estimated revenue risk, enabling product teams to prioritize features and shape data-driven roadmap decisions. The project was showcased at a final Demo Day, highlighting its value to stakeholders and demonstrating its potential for real-world impact.
 </td>
 </tr>
@@ -32,8 +32,8 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 <td valign="top">
   <b>Berkeley Police Department, Office of Strategic Planning & Accountability</b><br>
   <i>Data Analyst, Jan 2025 - April 2025</i><br>
-  <a href="https://bpd-transparency-initiative-berkeleypd.hub.arcgis.com/">Company Website</a> | <a href="https://drive.google.com/file/d/1GJc5lvHSB6qTAfGMJtgMgJdN7yne0bsp/view">Full Project Report</a> | <a href="https://github.com/sandy-lee29/patrol-optimization">Github Repo</a><br>
-  At the Berkeley Police Department, I led the development of a GIS-based patrol zone optimization tool that analyzed 60,000+ service calls to uncover workload imbalances and recommend data-driven boundary redesigns. Using Python, GeoPandas, and Shapely, I engineered geospatial algorithms that integrated response time, call priority, and disposition data into a normalized Police Patrol Workload Score (PPWS), enabling more equitable resource allocation across patrol sectors. I built interactive heatmaps and sector-level dashboards with custom KPIs to visualize workload distribution and highlight high-priority hotspots. The tool produced year-over-year comparison maps and scenario testing outputs, which were adopted by the Office of Strategic Planning to guide annual patrol updates. This project not only improved workload equity by 15% but also established a replicable framework for operational decision-making through geospatial analytics.
+  <a href="https://drive.google.com/file/d/1GJc5lvHSB6qTAfGMJtgMgJdN7yne0bsp/view">Full Project Report</a> | <a href="https://github.com/sandy-lee29/patrol-optimization">Github Repo</a><br>
+  At the Berkeley Police Department, I led the development of a GIS-based patrol zone optimization tool that analyzed 60,000+ service calls to uncover workload imbalances and recommend data-driven boundary redesigns. Using Python, GeoPandas, and Shapely, I engineered geospatial algorithms that integrated response time, call priority, and disposition data into a normalized Police Patrol Workload Score, enabling more equitable resource allocation across patrol sectors. I built interactive heatmaps and sector-level dashboards with custom KPIs to visualize workload distribution and highlight high-priority hotspots. The tool produced year-over-year comparison maps and scenario testing outputs, which were adopted by the Office of Strategic Planning to guide annual patrol updates. This project not only improved workload equity by 15% but also established a replicable framework for operational decision-making through geospatial analytics.
 </td>
 </tr>
 </table>
@@ -55,19 +55,54 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 
 ## Projects
 
-Through rigorous coursework and applied research at MaCSS, I've contributed to projects that advance data-driven policymaking in California, including:
-- **Displacement Risk Index:** Developed a displacement risk index for Bay Area census tracts by integrating ACS and eviction data to identify high-risk communities and inform housing policy.
-- **Gender Disparities in the Workforce:** Measured gender disparities by analyzing national education and earnings data to uncover structural inequities and support equity-driven interventions.
-- **Misinformation & Social Media:** Evaluated the impact of Twitter's deplatforming on misinformation diffusion using causal inference methods to inform content moderation and policy design.
+Through rigorous coursework and applied research at MaCSS, I've contributed to 
+projects that advance data-driven policymaking in California, including:
 
-Through rigorous coursework and applied research, I've also developed strong technical capabilities at the intersection of data science and social impact. At MaCSS, I've contributed to research projects that advance data-driven policymaking in California, including: 
+<table>
+<tr>
+<td width="100" align="center" valign="top">
+  <img src="./image/project1.png" alt="Deplatforming Project" width="100"/>
+</td>
+<td valign="top">
+  <b>Deplatforming and the Decline of Misinformation: A Twitter Case Study</b><br>
+  <b>사용된 툴:</b> Python, Statsmodels, Difference-in-Differences<br>
+  <a href="https://medium.com/@sangmin.lee.ir/evaluating-the-effectiveness-of-twitters-deplatforming-as-a-content-moderation-strategy-1066dea05a46">Medium Post</a> | <a href="https://github.com/sandy-lee29/Twitter-DiD-Analysis-Project">Github Repo</a><br>
+  In this project, I explored whether deplatforming after January 6th effectively reduced misinformation on Twitter. Using a Difference-in-Differences (DiD) approach, I analyzed a comprehensive dataset tracking fake and non-fake posts over time, focusing on user groups such as "QAnon" affiliates and suspended accounts. The analysis revealed a significant decline in misinformation sharing post-deplatforming, especially among the targeted user groups, with notable drops in retweets and post initiations. The study underscored the potential of deplatforming as a tool to curb misinformation while raising important questions about broader implications of content moderation.
+</td>
+</tr>
+</table>
 
-  - Developing a displacement risk index for Bay Area census tracts by integrating ACS and eviction data to identify high-risk communities and inform housing policy.
-  - Measuring gender disparities in the workforce by analyzing national education and earnings data to uncover structural inequities and support equity-driven interventions.
-  - Evaluating the impact of Twitter's deplatforming on misinformation diffusion using causal inference methods to inform content moderation and policy design.
+<table>
+<tr>
+<td width="100" align="center" valign="top">
+  <img src="./image/project2.png" alt="Displacement Risk Project" width="100"/>
+</td>
+<td valign="top">
+  <b>Mapping Displacement Risk in the Bay Area: A Spatial Data Approach</b><br>
+  <b>사용된 툴:</b> R (tidycensus, sf, ggplot2), Spatial Analysis<br>
+  <a href="https://github.com/sandy-lee29/housing-displacement-risk-analysis/blob/main/Measuring%20Displacement%20Risk%20using%20U.S.%20Census%20and%20Eviction%20Lab%20Data.pdf">Project Report</a> | <a href="https://github.com/sandy-lee29/housing-displacement-risk-analysis">Github Repo</a><br>
+  In this project, I developed a Displacement Risk Index to assess housing vulnerability across Bay Area census tracts. By spatially linking ACS 5-Year Census data with Eviction Lab records, I quantified the risk of displacement and visualized high-risk zones through choropleth maps. The analysis placed particular focus on the New Mexico tract, a neighborhood in the Bay Area with pronounced displacement signals. Communities with high renter concentration, Hispanic populations, and senior residents were identified as especially vulnerable. This project provided a data-driven lens to understand housing precarity and aimed to support equitable urban planning and policy targeting.
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100" align="center" valign="top">
+  <img src="./image/project3.png" alt="Gender Disparities Project" width="100"/>
+</td>
+<td valign="top">
+  <b>Quantifying Gender Disparities in the U.S. Workforce: Insights from the NSCG Survey Data</b><br>
+  <b>사용된 툴:</b> SQL, Python (pandas, statsmodels), Multiple Regression Modeling<br>
+  <a href="https://app.hex.tech/beresford-berkeley/app/315e596f-34be-45ff-8e87-88718e92ae70/latest">Project Report</a><br>
+  In this project, I analyzed wage disparities by gender and family structure using the 2021 National Survey of College Graduates (NSCG). Leveraging multiple regression with interaction terms, I quantified the motherhood penalty and examined how family structure amplifies wage gaps. The results revealed persistent structural inequities, particularly affecting mothers and unmarried women with children. The findings provide actionable insights to support equity-focused workforce policies and guide interventions for vulnerable subgroups.
+</td>
+</tr>
+</table>
 
 
 ## Analytical Skills
+
 Through real-world projects and graduate coursework, I've developed hands-on technical and analytical skills across the full data lifecycle—from engineering scalable pipelines to modeling and visualizing outcomes.
 
 
