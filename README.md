@@ -45,7 +45,7 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 </td>
 <td valign="top">
   <b>Incheon International Airport Corporation</b><br>
-  <i>Business Analyst, Feb 2019 – Jul 2024</i><br>
+  <i>Senior Business Analyst, Feb 2019 – Jul 2024</i><br>
   <a href="https://www.airport.kr/co_en/index.do">Company Website</a> | <a href="https://www.airport.kr/co_en/4284/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY29fZW4lMkY0NjclMkYxMzY1MjYlMkZhcnRjbFZpZXcuZG8lM0Y%3D">New Routes Incubating Program</a><br>
   At IIAC, I worked as a Business Analyst supporting airline marketing and international route development strategy for the world's 3rd busiest airport. I used SQL to pull and analyze large traffic datasets and delivered KPI reports to senior leadership, enabling data-informed decisions across aviation marketing, airline partnerships, and new route planning. I also designed and maintained 50+ Tableau and Excel dashboards to monitor performance metrics, market trends, and campaign effectiveness in real time. My analysis informed strategic decisions for the New Routes Incubating Program, which provided targeted marketing incentives to transition irregular flights into regular routes. By analyzing airline traffic patterns, competitor capacity, and market segmentation, I identified new revenue opportunities and supported strategic outreach, contributing to a 7% increase in APAC market share.
 </td>
