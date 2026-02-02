@@ -17,7 +17,7 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 </td>
 <td valign="top">
   <b>FocusKPI, Inc</b><br>
-  <i>Data Science Intern, Dec 2024 - Feb 2025</i><br>
+  <i>Product Analytics Intern, Dec 2024 - Apr 2025</i><br>
   <a href="https://www.youtube.com/watch?v=NK6nVT0ubZw">Watch Demo Video</a> | <a href="https://github.com/sandy-lee29/musicapp-review-analysis">Github Repo</a><br>
   At FocusKPI, I partnered with a leading analytics consultancy to build an AI-powered app review analysis pipeline that processed and tagged over 100,000 reviews by sentiment, topic, and product issue. Leveraging techniques such as prompt engineering with GPT-4o and short-text semantic grouping, I engineered an end-to-end system that surfaced key churn drivers and powered an interactive Streamlit dashboard for product teams. I also developed automated reporting logic to rank user issues by estimated revenue risk, enabling product teams to prioritize features and shape data-driven roadmap decisions. The project was showcased at a final Demo Day, highlighting its value to stakeholders and demonstrating its potential for real-world impact.
 </td>
@@ -31,7 +31,7 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 </td>
 <td valign="top">
   <b>Berkeley Police Department, Office of Strategic Planning & Accountability</b><br>
-  <i>Data Analyst, Feb 2025 - May 2025</i><br>
+  <i>Data Analyst, Jan 2025 - May 2025</i><br>
   <a href="https://www.youtube.com/watch?v=nM0Bpt6fSuw">Watch Demo Video</a> | <a href="https://drive.google.com/file/d/1GJc5lvHSB6qTAfGMJtgMgJdN7yne0bsp/view">Full Project Report</a> | <a href="https://github.com/sandy-lee29/patrol-optimization">Github Repo</a><br>
   At BPD, I built an innovative GIS-based patrol zone optimization tool that analyzed 60,000+ service calls to uncover workload imbalances and recommend data-driven boundary redesigns. Using Python, GeoPandas, and Shapely, I engineered geospatial algorithms that integrated response time, call priority, and disposition data into a normalized Police Patrol Workload Score, enabling more equitable resource allocation across patrol sectors. I built <a href="https://public.tableau.com/app/profile/sangmin.sandy.lee/viz/BerkeleyPoliceCallsDashboard/BerkeleyPolice">interactive maps in Tableau</a> to visualize service call distribution and developed sector-level dashboards in Streamlit with custom KPIs to analyze workload and visualize high-priority hotspots. The tool produced year-over-year comparison maps and scenario testing outputs, which were adopted by the Office of Strategic Planning to guide annual patrol updates. This project not only improved workload equity by 15% but also established a replicable framework for operational decision-making through geospatial analytics.    
 </td>
@@ -45,7 +45,7 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 </td>
 <td valign="top">
   <b>Incheon International Airport Corporation</b><br>
-  <i>Senior Business Analyst, Feb 2019 – Jul 2024</i><br>
+  <i>Senior Business Analyst, Jan 2019 – Jul 2024</i><br>
   <a href="https://www.airport.kr/co_en/index.do">Company Website</a> | <a href="https://www.airport.kr/co_en/4284/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGY29fZW4lMkY0NjclMkYxMzY1MjYlMkZhcnRjbFZpZXcuZG8lM0Y%3D">New Routes Incubating Program</a><br>
   At IIAC, I worked as a Business Analyst supporting airline marketing and international route development strategy for the world's 3rd busiest airport. I used SQL to pull and analyze large traffic datasets and delivered KPI reports to senior leadership, enabling data-informed decisions across aviation marketing, airline partnerships, and new route planning. I also designed and maintained 50+ Tableau and Excel dashboards to monitor performance metrics, market trends, and campaign effectiveness in real time. My analysis informed strategic decisions for the New Routes Incubating Program, which provided targeted marketing incentives to transition irregular flights into regular routes. By analyzing airline traffic patterns, competitor capacity, and market segmentation, I identified new revenue opportunities and supported strategic outreach, contributing to a 7% increase in APAC market share.
 </td>
