@@ -17,7 +17,7 @@ I feel most fulfilled when developing impactful solutions to real-world problems
 </td>
 <td valign="top">
   <b>FocusKPI, Inc</b><br>
-  <i>Product Analytics Intern, Dec 2024 - Apr 2025</i><br>
+  <i>Data Science Intern, Dec 2024 - Apr 2025</i><br>
   <a href="https://www.youtube.com/watch?v=NK6nVT0ubZw">Watch Demo Video</a> | <a href="https://github.com/sandy-lee29/musicapp-review-analysis">Github Repo</a><br>
   At FocusKPI, I partnered with a leading analytics consultancy to build an AI-powered app review analysis pipeline that processed and tagged over 100,000 reviews by sentiment, topic, and product issue. Leveraging techniques such as prompt engineering with GPT-4o and short-text semantic grouping, I engineered an end-to-end system that surfaced key churn drivers and powered an interactive Streamlit dashboard for product teams. I also developed automated reporting logic to rank user issues by estimated revenue risk, enabling product teams to prioritize features and shape data-driven roadmap decisions. The project was showcased at a final Demo Day, highlighting its value to stakeholders and demonstrating its potential for real-world impact.
 </td>
